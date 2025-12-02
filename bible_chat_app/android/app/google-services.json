@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241349491554",
+    "project_id": "genesis-app-343dc",
+    "storage_bucket": "genesis-app-343dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241349491554:android:593ff85942c675aa36ca3b",
+        "android_client_info": {
+          "package_name": "com.example.biblechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6LRAvggy2Pf_wfbBHBj5H3hbtLOdZnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

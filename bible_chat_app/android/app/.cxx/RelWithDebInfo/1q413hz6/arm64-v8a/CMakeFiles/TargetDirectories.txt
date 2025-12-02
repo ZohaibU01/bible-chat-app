@@ -1,0 +1,2 @@
+/Users/farhan/Documents/projects/bible_chat_app/bible_chat_app/android/app/.cxx/RelWithDebInfo/1q413hz6/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/farhan/Documents/projects/bible_chat_app/bible_chat_app/android/app/.cxx/RelWithDebInfo/1q413hz6/arm64-v8a/CMakeFiles/rebuild_cache.dir
